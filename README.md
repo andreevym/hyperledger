@@ -1,10 +1,9 @@
 # hyperledger-fabric-russian-doc
 
-Russian Documentation
+Russian Documentation  
+![](/assets/logo_hl_new.png)
 
-
-
-### Общая архитектура и определения
+### 
 
 
 
