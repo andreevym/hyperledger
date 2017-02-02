@@ -64,8 +64,8 @@ git clone ssh://LFID@gerrit.hyperledger.org:29418/**ONE-OF-PROJECTS**
 git push origin HEAD:refs/for/WIP_fabric_v1
 
 Когда вы отправите изменения в gerrit вам нужно будет добавить кого-нибудь из reviewers.
-Для этого зайтиде на страницу maintainers.md вашего проекта - email адреса
-By `reviewers` press the `Add...` button
+Зайдите на страницу 'maintainers.md' вашего проекта - email адреса
+Добавьте ревьюверов из списка к pull requses в gerrit. На сайте по `reviewers` нажмите `Add...` button
 
 перевести статус задачи в JIRA [http://jira.hyperledger.org/](https://www.gitbook.com/book/andreevym/hyperledger-fabric/edit#)
 
