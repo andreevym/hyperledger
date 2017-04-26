@@ -3,11 +3,11 @@
 [![Documentation Status](https://readthedocs.org/projects/hyperledger-fabric-russian-doc/badge/?version=latest)](http://hyperledger-fabric-russian-doc.readthedocs.io/en/latest/?badge=latest)
  
 Russian Documentation  
-![](/assets/logo_hl_new.png)
+![](https://andreevym.github.io/hyperledger/assets/logo_hl_new.png)
 
 # Как стать контрибьютором?
 
-![](/assets/lflogo2016_color.png)
+![](https://andreevym.github.io/hyperledger/assets/lflogo2016_color.png)
 
 # 10
 
