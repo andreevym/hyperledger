@@ -5,10 +5,6 @@
 Russian Documentation  
 ![](/assets/logo_hl_new.png)
 
-### 
-
-# ![](/assets/logo_hl_new.png)
-
 # Как стать контрибьютором?
 
 ![](/assets/lflogo2016_color.png)
